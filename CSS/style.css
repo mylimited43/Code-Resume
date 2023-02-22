@@ -42,24 +42,19 @@ hr{
     height: 10%;
     width: 200px;
     border-radius: 50%;
-    margin-right: 50px;
 }
 #myInfo{
     margin: 0 auto;
     margin-top: 50px;
+    
 }
 #content{
     margin-left: 2%;
 }
 #work{
-    width: 30%;
+    width: 50%;
 }
-#programmingSkill{
+#Skill{
     width: 15%;
 }
-#languageSkill{
-    width: 15%;
-}
-#mycontact{
-    margin-right: 500px;
-}
+
